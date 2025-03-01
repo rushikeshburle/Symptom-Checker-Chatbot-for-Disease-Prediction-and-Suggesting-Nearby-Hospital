@@ -1,0 +1,406 @@
+{
+    "intents": [
+        {
+            "tag": "AIIMS Hospital",
+            "location": [
+                20.720, 
+                78.600
+            ],
+            "Address": "AIIMS, Nagpur City, Nagpur"
+        },
+        {
+            "tag": "Care Clinic",
+            "location": [
+                20.735, 
+                78.640
+            ],
+            "Address": "Care Clinic, Nagpur Road, Nagpur"
+        },
+        {
+            "tag": "Krishna Hospital",
+            "location": [
+                20.850, 
+                78.890
+            ],
+            "Address": "Krishna Hospital,Pawde Saqure  Wardha"
+        },
+        {
+            "tag": "Zee Multispecialty Hospital",
+            "location": [
+                20.743, 
+                78.607
+            ],
+            "Address": "Zee Hospital, Wardha Road, Nagpur"
+        },
+        {
+            "tag": "Noble Hospital",
+            "location": [
+                20.743, 
+                78.607
+            ],
+            "Address": "Noble Hospital, Wardha, Maharashtra"
+        },
+        {
+            "tag": "Vasan Eye Care",
+            "location": [
+                20.708, 
+                78.601
+            ],
+            "Address": "Vasan Eye Care, Nagpur"
+        },
+        {
+            "tag": "Shalinitai Meghe Superspeciality Center, Unit of AVBRH, Sawangi(Meghe) Wardha",
+            "location": [
+                20.690,
+                78.758
+            ],
+            "Address": "AVBRH Hospital, Wardha, Maharashtra"
+        },
+        {
+            "tag": "Manohar Memorial Hospital",
+            "location": [
+                20.750,
+                78.580
+            ],
+            "Address": "Manohar Memorial Hospital, Wardha"
+        },
+        {
+            "tag": "Sevagarm Hospital",
+            "location": [
+                20.740,
+                78.710
+            ],
+            "Address": "Sevagarm Hospital, Wardha, Maharashtra"
+        },
+        {
+            "tag": "Shanti Hospital",
+            "location": [
+                20.895, 
+                78.980
+            ],
+            "Address": "Shanti Hospital, Wardha, Maharashtra"
+        },
+        {
+            "tag": "Shree Krishna Hospital",
+            "location": [
+                20.920,
+                79.030
+            ],
+            "Address": "Shree Krishna Hospital, Wardha, Maharashtra"
+        },
+        {
+            "tag": "Siddharth Gupta Memorial Cancer Hospital Sawangi ",
+            "location": [
+                20.690,
+                78.758
+            ],
+            "Address": "Sawangi MGHE Cancer Hospital, Wardha, Maharashtra"
+        },
+        {
+            "tag": "Jeevan Hospital",
+            "location": [
+                20.860,
+                78.910
+            ],
+            "Address": "Jeevan Hospital, Wardha, Maharashtra"
+        },
+        {
+            "tag": "Government Hospital",
+            "location": [
+                20.730,
+                 78.760
+            ],
+            "Address": "Near Bus stand, Wardha"
+        },
+        {
+            "tag": "Sarode Hospital",
+            "location": [
+                20.750, 
+                78.770
+            ],
+            "Address": "SBI Bank Road, Wardha"
+        },
+        {
+            "tag": "Bahimare Eye Disease Clinic",
+            "location": [
+                20.755,
+                78.780
+            ],
+            "Address": "Bahimare Eye Disease Clinic, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 17",
+            "location": [
+                20.717,
+                78.517
+            ],
+            "Address": "Wardha Hospital 17, Road 17, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 18",
+            "location": [
+                20.718,
+                78.518
+            ],
+            "Address": "Wardha Hospital 18, Road 18, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 19",
+            "location": [
+                20.718999999999998,
+                78.519
+            ],
+            "Address": "Wardha Hospital 19, Road 19, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 20",
+            "location": [
+                20.72,
+                78.52
+            ],
+            "Address": "Wardha Hospital 20, Road 20, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 21",
+            "location": [
+                20.721,
+                78.521
+            ],
+            "Address": "Wardha Hospital 21, Road 21, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 22",
+            "location": [
+                20.721999999999998,
+                78.522
+            ],
+            "Address": "Wardha Hospital 22, Road 22, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 23",
+            "location": [
+                20.723,
+                78.523
+            ],
+            "Address": "Wardha Hospital 23, Road 23, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 24",
+            "location": [
+                20.724,
+                78.524
+            ],
+            "Address": "Wardha Hospital 24, Road 24, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 25",
+            "location": [
+                20.724999999999998,
+                78.525
+            ],
+            "Address": "Wardha Hospital 25, Road 25, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 26",
+            "location": [
+                20.726,
+                78.526
+            ],
+            "Address": "Wardha Hospital 26, Road 26, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 27",
+            "location": [
+                20.727,
+                78.527
+            ],
+            "Address": "Wardha Hospital 27, Road 27, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 28",
+            "location": [
+                20.727999999999998,
+                78.528
+            ],
+            "Address": "Wardha Hospital 28, Road 28, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 29",
+            "location": [
+                20.729,
+                78.529
+            ],
+            "Address": "Wardha Hospital 29, Road 29, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 30",
+            "location": [
+                20.73,
+                78.53
+            ],
+            "Address": "Wardha Hospital 30, Road 30, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 31",
+            "location": [
+                20.730999999999998,
+                78.531
+            ],
+            "Address": "Wardha Hospital 31, Road 31, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 32",
+            "location": [
+                20.732,
+                78.532
+            ],
+            "Address": "Wardha Hospital 32, Road 32, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 33",
+            "location": [
+                20.733,
+                78.533
+            ],
+            "Address": "Wardha Hospital 33, Road 33, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 34",
+            "location": [
+                20.733999999999998,
+                78.534
+            ],
+            "Address": "Wardha Hospital 34, Road 34, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 35",
+            "location": [
+                20.735,
+                78.535
+            ],
+            "Address": "Wardha Hospital 35, Road 35, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 36",
+            "location": [
+                20.736,
+                78.536
+            ],
+            "Address": "Wardha Hospital 36, Road 36, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 37",
+            "location": [
+                20.737,
+                78.537
+            ],
+            "Address": "Wardha Hospital 37, Road 37, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 38",
+            "location": [
+                20.738,
+                78.538
+            ],
+            "Address": "Wardha Hospital 38, Road 38, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 39",
+            "location": [
+                20.739,
+                78.539
+            ],
+            "Address": "Wardha Hospital 39, Road 39, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 40",
+            "location": [
+                20.74,
+                78.54
+            ],
+            "Address": "Wardha Hospital 40, Road 40, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 41",
+            "location": [
+                20.741,
+                78.541
+            ],
+            "Address": "Wardha Hospital 41, Road 41, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 42",
+            "location": [
+                20.742,
+                78.542
+            ],
+            "Address": "Wardha Hospital 42, Road 42, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 43",
+            "location": [
+                20.743,
+                78.543
+            ],
+            "Address": "Wardha Hospital 43, Road 43, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 44",
+            "location": [
+                20.744,
+                78.544
+            ],
+            "Address": "Wardha Hospital 44, Road 44, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 45",
+            "location": [
+                20.745,
+                78.545
+            ],
+            "Address": "Wardha Hospital 45, Road 45, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 46",
+            "location": [
+                20.746,
+                78.546
+            ],
+            "Address": "Wardha Hospital 46, Road 46, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 47",
+            "location": [
+                20.747,
+                78.547
+            ],
+            "Address": "Wardha Hospital 47, Road 47, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 48",
+            "location": [
+                20.747999999999998,
+                78.548
+            ],
+            "Address": "Wardha Hospital 48, Road 48, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 49",
+            "location": [
+                20.749,
+                78.549
+            ],
+            "Address": "Wardha Hospital 49, Road 49, Wardha"
+        },
+        {
+            "tag": "Wardha Hospital 50",
+            "location": [
+                20.75,
+                78.55
+            ],
+            "Address": "Wardha Hospital 50, Road 50, Wardha"
+        }
+        
+        
+    ]
+}
