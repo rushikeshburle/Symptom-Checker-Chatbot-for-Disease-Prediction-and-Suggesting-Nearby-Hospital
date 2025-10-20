@@ -29,7 +29,7 @@ model.eval()
 bot_name = "Sam"
 
 # Sawangi MGHE Coordinates
-sawangi_coords = [20.690, 78.758]  # Sawangi MGHE coordinates (latitude, longitude)
+Sevagram_coords = [20.740,78.710]   #[20.690, 78.758]  # Sawangi MGHE coordinates (latitude, longitude)
 
 def get_response(msg):
     sentence = tokenize(msg)
@@ -106,7 +106,7 @@ def centres():
 
     for center in medical_centers["intents"]:
         center_location = center["location"]
-        distance = haversine(sawangi_coords[0], sawangi_coords[1], center_location[0], center_location[1])
+        distance = haversine(Sevagram_coords[0], Sevagram_coords[1], center_location[0], center_location[1])
         distances_to_centers.append((center["tag"], distance))
 
     # Sort the list of distances in ascending order
